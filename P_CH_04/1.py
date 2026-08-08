@@ -1,0 +1,17 @@
+# Write a program to store seven fruits in a list entered by the user.
+fruits = []
+f1 = input("Enter the fruit1:")
+fruits.append(f1)
+f2 = input("Enter the fruit2:")
+fruits.append(f2)
+f3 = input("Enter the fruit3:")
+fruits.append(f3)
+f4 = input("Enter the fruit4:")
+fruits.append(f4)
+f5 = input("Enter the fruit5:")
+fruits.append(f5)
+f6 = input("Enter the fruit6:")
+fruits.append(f6)
+f7 = input("Enter the fruit7:")
+fruits.append(f7)
+print(fruits)
